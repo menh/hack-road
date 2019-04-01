@@ -1,0 +1,52 @@
+https://www.ichunqiu.com/battalion i春秋
+http://www.wechall.net/sites.php We Chall
+https://microcorruption.com/login
+http://smashthestack.org/
+http://overthewire.org/wargames/
+https://exploit-exercises.com/（A方向）
+国际知名CTF赛事
+根据CTFTIME提供的国际CTF赛事列表，包括已完成的赛事和即将开赛的赛事。此外也根据社区反馈为每个国际CTF赛事评定了权重级别，权重级别大于或等于50的重要国际CTF赛事包括：
+· DEFCON CTF：CTF赛事中的“世界杯”
+· UCSB iCTF：来自UCSB的面向世界高校的CTF
+· Plaid CTF：包揽多项赛事冠军的CMU的PPP团队举办的在线解题赛
+· Boston Key Party：近年来崛起的在线解题赛
+· Codegate CTF：韩国首尔“大奖赛”，冠军奖金3000万韩元
+· Secuinside CTF：韩国首尔“大奖赛”，冠军奖金3000万韩元
+· XXC3 CTF：欧洲历史最悠久CCC黑客大会举办的CTF
+· SIGINT CTF：德国CCCAC协会另一场解题模式竞赛
+· Hack.lu CTF：卢森堡黑客会议同期举办的CTF
+· EBCTF：荷兰老牌强队Eindbazen组织的在线解题赛
+· Ghost in the Shellcode：由Marauders和Men in Black Hats共同组织的在线解题赛
+· RwthCTF：由德国0ldEur0pe组织的在线攻防赛
+· RuCTF：由俄罗斯Hackerdom组织，解题模式资格赛面向全球参赛，解题攻防混合模式的决赛面向俄罗斯队伍的国家级竞赛 [2]
+· RuCTFe：由俄罗斯Hackerdom组织面向全球参赛队伍的在线攻防赛
+· PHD CTF：俄罗斯Positive Hacking Day会议同期举办的CTF
+国际重要CTF赛事分布图
+红色为解题模式选拔赛+攻防模式现场决赛，黑色为混合模式在线赛，
+　　紫色为解题模式CTF赛，橘色为在攻防模式在线赛
+
+
+国内知名CTF赛事
+
+XCTF全国联赛
+中国网络空间安全协会竞评演练工作组主办、南京赛宁承办的全国性网络安全赛事平台，2014-2015赛季五站选拔赛分别由清华、上交、浙大、杭电和成信技术团队组织（包括杭电HCTF、成信SCTF、清华BCTF、上交0CTF和浙大ACTF），XCTF联赛总决赛由蓝莲花战队组织。XCTF联赛是国内最权威、最高技术水平与最大影响力的网络安全CTF赛事平台。
+AliCTF
+由阿里巴巴公司组织，面向在校学生的CTF竞赛，冠军奖金10万元加BlackHat全程费用。
+XDCTF
+2015年之前由西安电子科技大学信息安全协会与西安电子科技大学组织的CTF竞赛，其特点是偏向于渗透实战经验。2016年之后由西安电子科技大学组织举办。
+HCTF
+由杭州电子科技大学信息安全协会承办组织的CTF
+杭州电子科技大学信息安全协会由杭州电子科技大学通信工程学院组织建立，协会已有七年历史，曾经出征DEFCON,BCTF等大型比赛并取得优异成绩，同时协会还有大量有影响力的软件作品。协会内部成员由热爱黑客技术和计算机技术的一些在校大学生组成，有多个研究方向，主要有渗透，逆向，内核，web等多个研究方向。至今已经成功举办6次CTF比赛。
+ISCC
+由北理工组织的传统网络安全竞赛，最近两年逐渐转向CTF赛制。
+LCTF
+由L-Team战队组织的CTF竞赛。
+TCTF
+TCTF由中国网络空间安全协会竞评演练工作委员会指导、腾讯安全发起、腾讯安全联合实验室主办，0ops战队和北京邮电大学协办的CTF竞赛. [3]
+
+　　
+百度杯CTF夺旗大战
+由百度安全应急响应中心和i春秋联合举办的CTF比赛，国内现今为止首次历时最长（半年）、频次最高的CTF大赛。赛题丰富且突破了技术和网络的限制。
+　
+全国大学生信息安全竞赛创新实践能力赛线上赛
+由教育部高等学校信息安全专业教学指导委员会主办，西安电子科技大学、永信至诚、国卫信安等承办;百度安全中心、阿里安全应急响应中心、腾讯安全平台方舟计划、360企业安全集团赞助支持的CTF竞赛，覆盖面广，质量级别最高，被参赛选手称作CTF的国赛。
